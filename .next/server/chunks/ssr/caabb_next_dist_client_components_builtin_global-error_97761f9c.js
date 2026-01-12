@@ -1,0 +1,3 @@
+module.exports=[11208,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(87143);a.n(d("[project]/acoriss-web/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},67697,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(87143);a.n(d("[project]/acoriss-web/node_modules/next/dist/client/components/builtin/global-error.js"))},10518,a=>{"use strict";a.i(11208);var b=a.i(67697);a.n(b)}];
+
+//# sourceMappingURL=caabb_next_dist_client_components_builtin_global-error_97761f9c.js.map

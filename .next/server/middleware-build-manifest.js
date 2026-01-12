@@ -1,0 +1,55 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/About": [
+      "static/chunks/cd6dcc618646ce46.js",
+      "static/chunks/7fadbc7e8ad87efc.js",
+      "static/chunks/turbopack-23f39f78b939de4a.js"
+    ],
+    "/Contact": [
+      "static/chunks/5d4ece7998333a64.js",
+      "static/chunks/7fadbc7e8ad87efc.js",
+      "static/chunks/turbopack-4e9f6ed44d7245fa.js"
+    ],
+    "/Home": [
+      "static/chunks/98a01a640fd36797.js",
+      "static/chunks/7fadbc7e8ad87efc.js",
+      "static/chunks/turbopack-2b88a634824f6cb3.js"
+    ],
+    "/RdCard": [
+      "static/chunks/790a9a1225763b83.js",
+      "static/chunks/7fadbc7e8ad87efc.js",
+      "static/chunks/turbopack-5ef741168569b0ac.js"
+    ],
+    "/Services": [
+      "static/chunks/331dd5974a72eb8d.js",
+      "static/chunks/7fadbc7e8ad87efc.js",
+      "static/chunks/turbopack-8794fe86f502a687.js"
+    ],
+    "/_app": [
+      "static/chunks/4469198a43a3d456.js",
+      "static/chunks/7fadbc7e8ad87efc.js",
+      "static/chunks/turbopack-46b56f4a7d7637c8.js"
+    ],
+    "/_error": [
+      "static/chunks/4a3655abcfa0ed85.js",
+      "static/chunks/7fadbc7e8ad87efc.js",
+      "static/chunks/turbopack-1e5ec9bd9df590b6.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/a6dad97d9634a72d.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/7ce4398e14c085b8.js",
+    "static/chunks/d61f136afb5b4eeb.js",
+    "static/chunks/8660ad81dd68c46b.js",
+    "static/chunks/afbdf74f831618b6.js",
+    "static/chunks/turbopack-4f6fc96f170c9055.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];

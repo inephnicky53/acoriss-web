@@ -1,0 +1,11 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/caabb_next_dist_7bb085f6._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__71a3da0f._.js")
+R.c("server/chunks/ssr/caabb_next_dist_7ea0c6aa._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__7f148858._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__ef4d9ec3._.js")
+R.c("server/chunks/ssr/caabb_next_dist_client_components_5be58d63._.js")
+R.c("server/chunks/ssr/caabb_next_dist_client_components_builtin_forbidden_363b72e9.js")
+R.c("server/chunks/ssr/acoriss-web__next-internal_server_app__not-found_page_actions_45a1da73.js")
+R.m("[project]/acoriss-web/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/acoriss-web/src/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)")
+module.exports=R.m("[project]/acoriss-web/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/acoriss-web/src/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/acoriss-web/node_modules/next/dist/client/components/builtin/not-found.js [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)").exports
