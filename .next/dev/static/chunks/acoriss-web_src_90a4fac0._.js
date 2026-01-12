@@ -382,27 +382,27 @@ const HeroSection = ()=>{
                         className: "jsx-e6834bb49c10c713" + " " + "absolute top-20 left-10 w-72 h-72 bg-sky-200 rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob"
                     }, void 0, false, {
                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                        lineNumber: 126,
+                        lineNumber: 125,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "jsx-e6834bb49c10c713" + " " + "absolute top-40 right-10 w-72 h-72 bg-orange-200 rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob animation-delay-2000"
                     }, void 0, false, {
                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                        lineNumber: 127,
+                        lineNumber: 126,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "jsx-e6834bb49c10c713" + " " + "absolute -bottom-8 left-1/2 w-72 h-72 bg-purple-200 rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob animation-delay-4000"
                     }, void 0, false, {
                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                        lineNumber: 128,
+                        lineNumber: 127,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                lineNumber: 125,
+                lineNumber: 124,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -450,7 +450,7 @@ const HeroSection = ()=>{
                                                 className: "w-4 h-4 text-primary-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 155,
+                                                lineNumber: 154,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -458,13 +458,13 @@ const HeroSection = ()=>{
                                                 children: slide.badge
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 156,
+                                                lineNumber: 155,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                        lineNumber: 149,
+                                        lineNumber: 148,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h1, {
@@ -490,20 +490,20 @@ const HeroSection = ()=>{
                                                             children: word
                                                         }, void 0, false, {
                                                             fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                            lineNumber: 171,
+                                                            lineNumber: 170,
                                                             columnNumber: 21
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         index < slide.highlightedWords.length - 1 && ' et vos '
                                                     ]
                                                 }, index, true, {
                                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                    lineNumber: 170,
+                                                    lineNumber: 169,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                        lineNumber: 162,
+                                        lineNumber: 161,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -522,7 +522,7 @@ const HeroSection = ()=>{
                                         children: slide.subtitle
                                     }, void 0, false, {
                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                        lineNumber: 178,
+                                        lineNumber: 177,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -545,7 +545,7 @@ const HeroSection = ()=>{
                                                         className: `w-5 h-5 ${feature.color}`
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 196,
+                                                        lineNumber: 195,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -553,18 +553,18 @@ const HeroSection = ()=>{
                                                         children: feature.text
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 197,
+                                                        lineNumber: 196,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, index, true, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 195,
+                                                lineNumber: 194,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0)))
                                     }, void 0, false, {
                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                        lineNumber: 188,
+                                        lineNumber: 187,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -590,19 +590,19 @@ const HeroSection = ()=>{
                                                         className: "w-5 h-5"
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 215,
+                                                        lineNumber: 214,
                                                         columnNumber: 27
                                                     }, void 0),
                                                     iconPosition: "right",
                                                     children: slide.cta.primary
                                                 }, void 0, false, {
                                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                    lineNumber: 212,
+                                                    lineNumber: 211,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 211,
+                                                lineNumber: 210,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -613,18 +613,18 @@ const HeroSection = ()=>{
                                                     children: slide.cta.secondary
                                                 }, void 0, false, {
                                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                    lineNumber: 222,
+                                                    lineNumber: 221,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 221,
+                                                lineNumber: 220,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                        lineNumber: 205,
+                                        lineNumber: 204,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -650,7 +650,7 @@ const HeroSection = ()=>{
                                                                 children: stat.value
                                                             }, void 0, false, {
                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                lineNumber: 238,
+                                                                lineNumber: 237,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -658,37 +658,37 @@ const HeroSection = ()=>{
                                                                 children: stat.label
                                                             }, void 0, false, {
                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                lineNumber: 239,
+                                                                lineNumber: 238,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 237,
+                                                        lineNumber: 236,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     index < slide.stats.length - 1 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "jsx-e6834bb49c10c713" + " " + "w-px h-12 bg-gray-300"
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 241,
+                                                        lineNumber: 240,
                                                         columnNumber: 56
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, index, true, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 236,
+                                                lineNumber: 235,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0)))
                                     }, void 0, false, {
                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                        lineNumber: 229,
+                                        lineNumber: 228,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                lineNumber: 147,
+                                lineNumber: 146,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -714,7 +714,7 @@ const HeroSection = ()=>{
                                                     className: "jsx-e6834bb49c10c713" + " " + `absolute inset-0 bg-gradient-to-r ${slide.cardGradient} rounded-3xl blur-2xl opacity-30 animate-pulse`
                                                 }, void 0, false, {
                                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                    lineNumber: 257,
+                                                    lineNumber: 256,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -731,24 +731,24 @@ const HeroSection = ()=>{
                                                                             className: "w-6 h-6 text-white"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                            lineNumber: 263,
+                                                                            lineNumber: 262,
                                                                             columnNumber: 29
                                                                         }, ("TURBOPACK compile-time value", void 0)) : currentSlide === 1 ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shield$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Shield$3e$__["Shield"], {
                                                                             className: "w-6 h-6 text-white"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                            lineNumber: 265,
+                                                                            lineNumber: 264,
                                                                             columnNumber: 29
                                                                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$credit$2d$card$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CreditCard$3e$__["CreditCard"], {
                                                                             className: "w-6 h-6 text-white"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                            lineNumber: 267,
+                                                                            lineNumber: 266,
                                                                             columnNumber: 29
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                        lineNumber: 261,
+                                                                        lineNumber: 260,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -756,13 +756,13 @@ const HeroSection = ()=>{
                                                                         children: currentSlide === 2 ? 'Acoriss Conseil' : 'RdCard'
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                        lineNumber: 270,
+                                                                        lineNumber: 269,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                lineNumber: 260,
+                                                                lineNumber: 259,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -772,20 +772,20 @@ const HeroSection = ()=>{
                                                                         className: "jsx-e6834bb49c10c713" + " " + "h-10 bg-white/20 backdrop-blur-sm rounded-lg"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                        lineNumber: 275,
+                                                                        lineNumber: 274,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                         className: "jsx-e6834bb49c10c713" + " " + "h-6 bg-white/10 backdrop-blur-sm rounded w-2/3"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                        lineNumber: 276,
+                                                                        lineNumber: 275,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                lineNumber: 274,
+                                                                lineNumber: 273,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -799,7 +799,7 @@ const HeroSection = ()=>{
                                                                                 children: "Titulaire"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                                lineNumber: 280,
+                                                                                lineNumber: 279,
                                                                                 columnNumber: 27
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -807,13 +807,13 @@ const HeroSection = ()=>{
                                                                                 children: "Jean Mukendi"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                                lineNumber: 281,
+                                                                                lineNumber: 280,
                                                                                 columnNumber: 27
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                        lineNumber: 279,
+                                                                        lineNumber: 278,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -824,7 +824,7 @@ const HeroSection = ()=>{
                                                                                 children: "Expire"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                                lineNumber: 284,
+                                                                                lineNumber: 283,
                                                                                 columnNumber: 27
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -832,36 +832,36 @@ const HeroSection = ()=>{
                                                                                 children: "12/25"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                                lineNumber: 285,
+                                                                                lineNumber: 284,
                                                                                 columnNumber: 27
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                        lineNumber: 283,
+                                                                        lineNumber: 282,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                                lineNumber: 278,
+                                                                lineNumber: 277,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 259,
+                                                        lineNumber: 258,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                    lineNumber: 258,
+                                                    lineNumber: 257,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                            lineNumber: 256,
+                                            lineNumber: 255,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -874,7 +874,7 @@ const HeroSection = ()=>{
                                                         children: "✓"
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 295,
+                                                        lineNumber: 294,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -882,18 +882,18 @@ const HeroSection = ()=>{
                                                         children: currentSlide === 1 ? 'Sécurisé' : currentSlide === 2 ? 'Fiable' : 'Sécurisé'
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 296,
+                                                        lineNumber: 295,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 294,
+                                                lineNumber: 293,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                            lineNumber: 293,
+                                            lineNumber: 292,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -906,7 +906,7 @@ const HeroSection = ()=>{
                                                         children: "⚡"
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 303,
+                                                        lineNumber: 302,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -914,45 +914,45 @@ const HeroSection = ()=>{
                                                         children: "Rapide"
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                        lineNumber: 304,
+                                                        lineNumber: 303,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                                lineNumber: 302,
+                                                lineNumber: 301,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                            lineNumber: 301,
+                                            lineNumber: 300,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                    lineNumber: 254,
+                                    lineNumber: 253,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                lineNumber: 248,
+                                lineNumber: 247,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, currentSlide, true, {
                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                        lineNumber: 133,
+                        lineNumber: 132,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                    lineNumber: 132,
+                    lineNumber: 131,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                lineNumber: 131,
+                lineNumber: 130,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -970,12 +970,12 @@ const HeroSection = ()=>{
                                     className: "w-6 h-6 text-gray-700"
                                 }, void 0, false, {
                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                    lineNumber: 323,
+                                    lineNumber: 322,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                lineNumber: 318,
+                                lineNumber: 317,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -986,12 +986,12 @@ const HeroSection = ()=>{
                                         className: "jsx-e6834bb49c10c713" + " " + `h-2 rounded-full transition-all duration-300 ${index === currentSlide ? 'w-8 bg-primary-500' : 'w-2 bg-gray-300 hover:bg-gray-400'}`
                                     }, index, false, {
                                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                        lineNumber: 329,
+                                        lineNumber: 328,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0)))
                             }, void 0, false, {
                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                lineNumber: 327,
+                                lineNumber: 326,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1002,28 +1002,28 @@ const HeroSection = ()=>{
                                     className: "w-6 h-6 text-gray-700"
                                 }, void 0, false, {
                                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                    lineNumber: 348,
+                                    lineNumber: 347,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                                lineNumber: 343,
+                                lineNumber: 342,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                        lineNumber: 316,
+                        lineNumber: 315,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                    lineNumber: 315,
+                    lineNumber: 314,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                lineNumber: 314,
+                lineNumber: 313,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1039,17 +1039,17 @@ const HeroSection = ()=>{
                         className: "jsx-e6834bb49c10c713"
                     }, void 0, false, {
                         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                        lineNumber: 362,
+                        lineNumber: 361,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                    lineNumber: 356,
+                    lineNumber: 355,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-                lineNumber: 355,
+                lineNumber: 354,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1059,7 +1059,7 @@ const HeroSection = ()=>{
         ]
     }, void 0, true, {
         fileName: "[project]/acoriss-web/src/components/home/HeroSection.tsx",
-        lineNumber: 123,
+        lineNumber: 122,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };

@@ -1,3 +1,0 @@
-module.exports=[92972,a=>{"use strict";let b=(0,a.i(78810).default)("CheckCircle",[["path",{d:"M22 11.08V12a10 10 0 1 1-5.93-9.14",key:"g774vq"}],["path",{d:"m9 11 3 3L22 4",key:"1pflzl"}]]);a.s(["CheckCircle",()=>b],92972)},74504,a=>{"use strict";let b=(0,a.i(78810).default)("MessageCircle",[["path",{d:"M7.9 20A9 9 0 1 0 4 16.1L2 22Z",key:"vv11sd"}]]);a.s(["MessageCircle",()=>b],74504)}];
-
-//# sourceMappingURL=caabb_lucide-react_dist_esm_icons_65a036bf._.js.map

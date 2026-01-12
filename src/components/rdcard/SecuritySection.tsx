@@ -1,9 +1,8 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { Shield, Lock, Smartphone, Eye, CheckCircle, AlertTriangle } from 'lucide-react';
+import { Shield, Lock, Smartphone, Eye, CheckCircle } from 'lucide-react';
 
 const securityFeatures = [
   {

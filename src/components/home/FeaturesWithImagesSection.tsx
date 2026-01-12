@@ -3,7 +3,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { Check, Users, TrendingUp, Shield, Zap } from 'lucide-react';
+import { Check, Users, Shield, Zap } from 'lucide-react';
 
 const features = [
   {

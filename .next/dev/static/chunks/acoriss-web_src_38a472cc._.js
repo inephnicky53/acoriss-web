@@ -1676,7 +1676,7 @@ const SecuritySection = ()=>{
                                         children: "🔐 Sécurité & Contrôle"
                                     }, void 0, false, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 48,
+                                        lineNumber: 47,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -1686,12 +1686,12 @@ const SecuritySection = ()=>{
                                             children: "Votre sécurité, notre priorité"
                                         }, void 0, false, {
                                             fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                            lineNumber: 52,
+                                            lineNumber: 51,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 51,
+                                        lineNumber: 50,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1699,13 +1699,13 @@ const SecuritySection = ()=>{
                                         children: "La RdCard intègre les technologies de sécurité les plus avancées pour protéger vos fonds et vos données personnelles."
                                     }, void 0, false, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 56,
+                                        lineNumber: 55,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                lineNumber: 47,
+                                lineNumber: 46,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1737,12 +1737,12 @@ const SecuritySection = ()=>{
                                                         className: "w-6 h-6 text-white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                        lineNumber: 76,
+                                                        lineNumber: 75,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                    lineNumber: 75,
+                                                    lineNumber: 74,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1750,7 +1750,7 @@ const SecuritySection = ()=>{
                                                     children: feature.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 77,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1758,24 +1758,24 @@ const SecuritySection = ()=>{
                                                     children: feature.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                    lineNumber: 79,
+                                                    lineNumber: 78,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                            lineNumber: 74,
+                                            lineNumber: 73,
                                             columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, index, false, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 66,
+                                        lineNumber: 65,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0));
                                 })
                             }, void 0, false, {
                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                lineNumber: 62,
+                                lineNumber: 61,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1788,7 +1788,7 @@ const SecuritySection = ()=>{
                                                 className: "w-5 h-5 text-green-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 89,
+                                                lineNumber: 88,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1796,13 +1796,13 @@ const SecuritySection = ()=>{
                                                 children: "Cryptage 256-bit"
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 90,
+                                                lineNumber: 89,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 88,
+                                        lineNumber: 87,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1812,7 +1812,7 @@ const SecuritySection = ()=>{
                                                 className: "w-5 h-5 text-green-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 93,
+                                                lineNumber: 92,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1820,13 +1820,13 @@ const SecuritySection = ()=>{
                                                 children: "Conformité PCI-DSS"
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 94,
+                                                lineNumber: 93,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 92,
+                                        lineNumber: 91,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1836,7 +1836,7 @@ const SecuritySection = ()=>{
                                                 className: "w-5 h-5 text-green-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 97,
+                                                lineNumber: 96,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1844,25 +1844,25 @@ const SecuritySection = ()=>{
                                                 children: "Protection anti-fraude"
                                             }, void 0, false, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 98,
+                                                lineNumber: 97,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 96,
+                                        lineNumber: 95,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                lineNumber: 87,
+                                lineNumber: 86,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1885,7 +1885,7 @@ const SecuritySection = ()=>{
                                     className: "absolute inset-0 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-3xl blur-3xl opacity-20"
                                 }, void 0, false, {
                                     fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                    lineNumber: 112,
+                                    lineNumber: 111,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1908,12 +1908,12 @@ const SecuritySection = ()=>{
                                                                             className: "w-5 h-5 text-white"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                            lineNumber: 122,
+                                                                            lineNumber: 121,
                                                                             columnNumber: 27
                                                                         }, ("TURBOPACK compile-time value", void 0))
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 121,
+                                                                        lineNumber: 120,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1923,7 +1923,7 @@ const SecuritySection = ()=>{
                                                                                 children: "RdCard App"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                                lineNumber: 125,
+                                                                                lineNumber: 124,
                                                                                 columnNumber: 27
                                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1931,19 +1931,19 @@ const SecuritySection = ()=>{
                                                                                 children: "Contrôle total"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                                lineNumber: 126,
+                                                                                lineNumber: 125,
                                                                                 columnNumber: 27
                                                                             }, ("TURBOPACK compile-time value", void 0))
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 124,
+                                                                        lineNumber: 123,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                lineNumber: 120,
+                                                                lineNumber: 119,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1952,18 +1952,18 @@ const SecuritySection = ()=>{
                                                                     className: "w-4 h-4 bg-white rounded-full ml-auto"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                    lineNumber: 130,
+                                                                    lineNumber: 129,
                                                                     columnNumber: 25
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                lineNumber: 129,
+                                                                lineNumber: 128,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                        lineNumber: 119,
+                                                        lineNumber: 118,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1977,20 +1977,20 @@ const SecuritySection = ()=>{
                                                                         children: "Carte activée"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 136,
+                                                                        lineNumber: 135,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2d$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle$3e$__["CheckCircle"], {
                                                                         className: "w-5 h-5 text-green-500"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 137,
+                                                                        lineNumber: 136,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                lineNumber: 135,
+                                                                lineNumber: 134,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2001,20 +2001,20 @@ const SecuritySection = ()=>{
                                                                         children: "Paiements en ligne"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 140,
+                                                                        lineNumber: 139,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2d$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle$3e$__["CheckCircle"], {
                                                                         className: "w-5 h-5 text-green-500"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 141,
+                                                                        lineNumber: 140,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                lineNumber: 139,
+                                                                lineNumber: 138,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2025,32 +2025,32 @@ const SecuritySection = ()=>{
                                                                         children: "Notifications actives"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 144,
+                                                                        lineNumber: 143,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2d$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle$3e$__["CheckCircle"], {
                                                                         className: "w-5 h-5 text-green-500"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                        lineNumber: 145,
+                                                                        lineNumber: 144,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0))
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                lineNumber: 143,
+                                                                lineNumber: 142,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                        lineNumber: 134,
+                                                        lineNumber: 133,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 118,
+                                                lineNumber: 117,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2062,12 +2062,12 @@ const SecuritySection = ()=>{
                                                             className: "w-6 h-6 text-white"
                                                         }, void 0, false, {
                                                             fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                            lineNumber: 153,
+                                                            lineNumber: 152,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                        lineNumber: 152,
+                                                        lineNumber: 151,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2077,7 +2077,7 @@ const SecuritySection = ()=>{
                                                                 children: "100% Sécurisé"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                lineNumber: 156,
+                                                                lineNumber: 155,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$acoriss$2d$web$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2085,57 +2085,57 @@ const SecuritySection = ()=>{
                                                                 children: "Protection maximale garantie"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                                lineNumber: 157,
+                                                                lineNumber: 156,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                        lineNumber: 155,
+                                                        lineNumber: 154,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                                lineNumber: 151,
+                                                lineNumber: 150,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                        lineNumber: 116,
+                                        lineNumber: 115,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                                    lineNumber: 115,
+                                    lineNumber: 114,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                            lineNumber: 110,
+                            lineNumber: 109,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                        lineNumber: 104,
+                        lineNumber: 103,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-                lineNumber: 39,
+                lineNumber: 38,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-            lineNumber: 38,
+            lineNumber: 37,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/acoriss-web/src/components/rdcard/SecuritySection.tsx",
-        lineNumber: 37,
+        lineNumber: 36,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
